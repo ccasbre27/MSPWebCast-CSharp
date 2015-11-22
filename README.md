@@ -1,3 +1,12 @@
 # MSPWebCast-CSharp
-Repositorio del webcast para aprendar a desarrollar en C#
-En este repositorio encontrarán el código que se utilizó 
+
+Repositorio del MSPWebCast sobre C#
+
+## Uso
+
+Pueden descargar el código o crear un fork
+
+
+## License
+
+Creative Commons
