@@ -7,6 +7,6 @@ Repositorio del MSPWebCast sobre C#
 Pueden descargar el código o crear un fork
 
 
-## License
+## Licencia
 
 Creative Commons
